@@ -1,2 +1,3 @@
 <?php
-phpinfo();
+    echo "C'est la page d'accueil"
+    ?>
