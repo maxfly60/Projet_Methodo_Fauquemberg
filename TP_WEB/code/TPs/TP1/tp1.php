@@ -18,8 +18,8 @@
 <select>
 <option>Selection une quantité</option>
 <?php
-    $s = 2
-    $n = 5
+    $s = 2;
+    $n = 5;
 
     for($i = 1; $i <= $n; $i++){
         $myString = "";

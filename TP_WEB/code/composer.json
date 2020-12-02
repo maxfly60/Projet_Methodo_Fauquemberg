@@ -1,5 +1,11 @@
 {
     "require-dev": {
         "phpunit/phpunit": "8"
-    }
+    },
+
+    "authors": [
+        {
+            "name": "Lucas.D, Maxence.G, Remy.H et Aurelien.P"
+        }
+    ]
 }
